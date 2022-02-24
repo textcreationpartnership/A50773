@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the late visitation at St. Mary Magdal. Colledge in Oxon by the Right Reverend Father in God Peter, Ld Bish. of Winton, on Thursday the 24th of October, 1688</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50773</idno>
+            <idno type="STC">Wing M1951</idno>
+            <idno type="STC">ESTC R1779</idno>
+            <idno type="EEBO-CITATION">12774152</idno>
+            <idno type="OCLC">ocm 12774152</idno>
+            <idno type="VID">93733</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93733)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 699:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the late visitation at St. Mary Magdal. Colledge in Oxon by the Right Reverend Father in God Peter, Ld Bish. of Winton, on Thursday the 24th of October, 1688</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"The names of the president, vice-president, fellows, demies, chaplains, clarks, servants, and choristers of Magdalen-colledge ...": p. 4.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mews, Peter, 1619-1706.</term>
+               <term>Magdalen College (University of Oxford)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account_of_episcopal_visitation">
+            <pb n="1" facs="tcp:93733:1"/>
+            <head>AN ACCOUNT OF THE Late Viſitation AT <hi>St. Mary Magdal. Colledge</hi> IN OXON. BY THE Right Reverend Father in God, PETER L<hi rend="sup">d</hi> Biſh. of Winton. On <hi>Thurſday</hi> the 24th of <hi>October,</hi> 1688.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Novemb. 1. 1688.</date>
+                           </dateline>
+                        </opener>
+                        <p>This may be Printed.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>ON <hi>Tueſday</hi> the 16th of this inſtant <hi>October,</hi> was fix'd up<g ref="char:EOLhyphen"/>on the Colledge-Gates and Chappel-Doors, a Citation from the Biſhop of <hi>Winton</hi> in Latin, (and not injudiciouſly, for the Mother-Tongue would have been fitter for Babes than
+<pb n="2" facs="tcp:93733:2"/>Scholars) to Re-call Dr. <hi>Hough,</hi> the former Fellows, Demies, <hi>&amp;c.</hi> by the ſecond of <hi>November</hi> following; which Citation was guarded by <hi>Robert Gardner,</hi> late Porter, who, as he firſt left the Colledge, ſo he firſt return'd to it. But this Citation, together with the Biſhops Mind, being altered, according to a ſecond Information, he their Reſtorer as well as Viſitor, was ſooner Receiv'd, <hi>viz.</hi> on <hi>Saturday, October</hi> the 20th, no doubt for his Maſters ſake) more like the King than his Re<g ref="char:EOLhyphen"/>preſentative; which gave ſo great Satisfaction to the People, that their Joy ran over, the Muſick of the Bells being out<g ref="char:EOLhyphen"/>done by Humms and Huzzahs. Thus being attended by more than Three Hundred Gentlemen on Horſeback, and in ſeve<g ref="char:EOLhyphen"/>ral Coaches, as alſo by an innumerable company of Spectators on foot, from <hi>Magdalen</hi>-Colledge to his Lodgings at St. <hi>John<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> he receiv'd his firſt general Salute.</p>
+            <p>But this Sun-ſhine was ſoon Eclips'd; for the next morning by Seven of the Clock, he was Remanded by an Expreſs, to wait upon and pay a Viſit to his Majeſty. This was very pleaſing to ſome Roman Catholicks, who, what the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, eaſily believ'd, <hi>viz.</hi> That the King had recall<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Comm<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, as well as the Commiſſioner.</p>
+            <p>But on <hi>Wedneſday</hi> following, we were well ſatisfied, that the King had more Kindneſs for Our Church, than to anſwer Their Expectation; on which day (having before paid his Obedience to the King) he privately ſurprized, and conde<g ref="char:EOLhyphen"/>ſcended again to Viſit Us.</p>
+            <p>On <hi>Thurſday</hi> the 24th of <hi>October,</hi> about Ten in the Morn<g ref="char:EOLhyphen"/>ing, he made his firſt Viſit to <hi>Magdalen Colledge,</hi> the Preſident, Fellows, Demies, <hi>&amp;c.</hi> attending upon, and anſwering him in their Formalities. At his entrance into the Quire, having heard an Excellent Congratulary Speech from Dr. <hi>Baily,</hi> per<g ref="char:EOLhyphen"/>form'd Divine Service; ſo devoting himſelf firſt to God, he proceeded to execute his Office as Viſitor; the Prologue of which was in ſhort to this effect:
+<q>That ſince His Majeſty of His Gracious Clemency was pleas'd to Commiſſion Me to reſtore you the former Proprietors of this Foundation; in obedience to this Command, I am come to reinſtate you accordingly, re<g ref="char:EOLhyphen"/>ſolving to do it Legally and Statutably.</q>
+            </p>
+            <pb n="3" facs="tcp:93733:2"/>
+            <p> From the Chappel they were adjourned to the Hall, where his Lordſhip, not without great Applauſe, made an incompa<g ref="char:EOLhyphen"/>rable Speech, a very ſeaſonable Piece of Advice, conſiſting chiefly of Loyalty and Unity; by which he merited as great a Trophy for his Learning, as he did before for his Courage.</p>
+            <p>Then calling for the Colledge Statute-book, the Statute for Viſitation was read; after which calling for the Buttery-book, and tearing out the laſt Weeks Names of the <hi>Roman Catholick</hi> Fellows, <hi>&amp;c.</hi> he gave Orders to Re-inſcribe all the old ones, except Mr. <hi>Charnock</hi> and two Demy's, who were preferr'd ſince to other Fellowſhips. Then calling them over in order, his Lordſhip publiſhed and declared Dr. <hi>Hough</hi> to be the Head or Preſident, and the reſt the True, Legal, and Statuta<g ref="char:EOLhyphen"/>ble Members of that Foundation, and none others: For which good Service Dr. <hi>Hough,</hi> one who might plead the beſt Deſert, as well as Propriety, to this Preſidentſhip, in behalf of the reſt, returned his Lordſhip a handſom Complement, in a ſhort but pithy Speech.</p>
+            <p>From hence his Lordſhip was conducted to the Viſitor's Lodgings, where was provided a ſplendid Entertainment; Dr. <hi>Hough</hi> thereby ſhewing <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o great Reſpect to the King's Commiſſioner, as he could have done to himſelf.</p>
+            <p>In the Evening the Bells expreſs'd the Peoples Satisfaction: Bonfires in the Town added great Pomp to this Celebration.</p>
+            <p>Having now bid Farewel to <hi>Magdalen</hi> Colledge, his Lord<g ref="char:EOLhyphen"/>ſhip was on <hi>Friday</hi> and <hi>Saturday</hi> at <hi>Corpus Chriſti, New Col<g ref="char:EOLhyphen"/>ledge,</hi> and <hi>Trinity,</hi> who paid their Reſpect to him in three ſplendid Entertainments. Upon <hi>Sunday</hi> he was entertained with two Univerſity Sermons, a Repaſt for his Soul, as the others for his Body. The next Morning he departed home<g ref="char:EOLhyphen"/>wards, having received ample Teſtimony of the Univerſities Loyalty and Generoſity.</p>
+         </div>
+         <div type="list_of_names">
+            <pb n="4" facs="tcp:93733:3"/>
+            <head>The Names of the Preſident, Vice-Preſident, Fellows, Demies, Chap<g ref="char:EOLhyphen"/>lains, Clarks, Servants, and Choriſters of <hi>Magdalen-Colledge,</hi> as they now ſtand Entred in the <hi>Buttery-Book,</hi> by the Lord Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Winton,</hi> their preſent Viſitor, <hi>Viz.</hi>
+            </head>
+            <list>
+               <item>Doctor <hi>JOHN HO<g ref="char:V">Ʋ</g>GH,</hi> Preſident.</item>
+            </list>
+            <list>
+               <head>FELLOWS.</head>
+               <item>Dr. <hi>Ch. Aldworth,</hi> V.Pr.</item>
+               <item>Dr. <hi>Henry Fairfax.</hi>
+               </item>
+               <item>Dr. <hi>Alexander Pudſey.</hi>
+               </item>
+               <item>Dr. <hi>John Younger. </hi>
+               </item>
+               <item>Dr. <hi>John Smyth.</hi>
+               </item>
+               <item>Dr. <hi>Thomas Smyth.</hi>
+               </item>
+               <item>Dr. <hi>Thomas Bayly.</hi>
+               </item>
+               <item>Dr. <hi>Thomas Stafford.</hi>
+               </item>
+               <item>Mr. <hi>Charles Hawles.</hi>
+               </item>
+               <item>Mr. <hi>Robert Almond.</hi>
+               </item>
+               <item>Mr. <hi>Manwawr. Hamond.</hi>
+               </item>
+               <item>Mr. <hi>John Rogers.</hi>
+               </item>
+               <item>Mr. <hi>Richard Strickland.</hi>
+               </item>
+               <item>Mr. <hi>— Hooper. </hi>
+               </item>
+               <item>Mr. <hi>Francis Smyth.</hi>
+               </item>
+               <item>Mr. <hi>Edward Maynard.</hi>
+               </item>
+               <item>Mr. <hi>Henry Dobſon.</hi>
+               </item>
+               <item>Mr. <hi>James Bayly.</hi>
+               </item>
+               <item>Mr. <hi>John Davis.</hi>
+               </item>
+               <item>Mr. <hi>Francis Bagſhaw.</hi>
+               </item>
+               <item>Mr. <hi>John Hicks.</hi>
+               </item>
+               <item>Mr. <hi>Jaſper Thompſon.</hi>
+               </item>
+               <item>Mr. <hi>James Fayrer. </hi>
+               </item>
+               <item>Mr. <hi>Joſeph Harwar. </hi>
+               </item>
+               <item>Mr. <hi>Thomas Bateman.</hi>
+               </item>
+               <item>Mr. <hi>George Hunt.</hi>
+               </item>
+               <item>Mr. <hi>Willam Cradock.</hi>
+               </item>
+               <item>Mr. <hi>John Gillman.</hi>
+               </item>
+               <item>Mr. <hi>George Fulham.</hi>
+               </item>
+               <item>Mr. <hi>Charles Peningston.</hi>
+               </item>
+               <item>Mr. <hi>Thomas Goodwin.</hi>
+               </item>
+               <item>Mr. <hi>Robert Hyde.</hi>
+               </item>
+               <item>Mr. <hi>Robert Yerburg.</hi>
+               </item>
+               <item>Mr. <hi>Robert Thomton.</hi>
+               </item>
+               <item>Mr. <hi>Robert Holt.</hi>
+               </item>
+               <item>Mr. <hi>Henry Holden.</hi>
+               </item>
+               <item>Mr. <hi>Stephen Wilkes.</hi>
+               </item>
+            </list>
+            <list>
+               <head>DEMIES.</head>
+               <item>Mr. <hi>Tho. Holt,</hi> Principal.</item>
+               <item>Mr. <hi>Cripps.</hi>
+               </item>
+               <item>Mr. <hi>Jenefar. </hi>
+               </item>
+               <item>Mr. <hi>Adams.</hi>
+               </item>
+               <item>Mr. <hi>Standard</hi>
+               </item>
+               <item>Mr. <hi>Veſy.</hi>
+               </item>
+               <item>Mr. <hi>Goring.</hi>
+               </item>
+               <item>Mr. <hi>Brabourn.</hi>
+               </item>
+               <item>Mr. <hi>Stonhouſe.</hi>
+               </item>
+               <item>Mr. <hi>Hyde.</hi>
+               </item>
+               <item>Mr. <hi>Woodward.</hi>
+               </item>
+               <item>Dr. <hi>Livezay.</hi>
+               </item>
+               <item>Dr. <hi>Allen.</hi>
+               </item>
+               <item>Dr. <hi>Stacy.</hi>
+               </item>
+               <item>Dr. <hi>Watkins.</hi>
+               </item>
+               <item>Dr. <hi>Buſh.</hi>
+               </item>
+               <item>Dr. <hi>Kenton.</hi>
+               </item>
+               <item>Dr. <hi>Croſs,</hi>
+               </item>
+               <item>Dr. <hi>Gardner. </hi>
+               </item>
+               <item>Dr. <hi>Hanſon.</hi>
+               </item>
+               <item>
+                  <hi>Higgons.</hi>
+               </item>
+               <item>
+                  <hi>Wells.</hi>
+               </item>
+               <item>
+                  <hi>Maunder. </hi>
+               </item>
+               <item>
+                  <hi>Baylie.</hi>
+               </item>
+               <item>
+                  <hi>Adams.</hi>
+               </item>
+               <item>
+                  <hi>Bagſhaw.</hi>
+               </item>
+            </list>
+            <p>Two others, <hi>viz.</hi> Mr. <hi>Sherwin,</hi> and Mr. <hi>Levit,</hi> were omitted, being pre<g ref="char:EOLhyphen"/>ferr 'd, the firs;t, to be a Fellow of <hi>Merton</hi> Coll. and the other a Fellow of <hi>Exeter.</hi> Colledge.</p>
+            <list>
+               <head>CHAPLAINS.</head>
+               <item>Mr. <hi>Maunder.</hi>
+               </item>
+               <item>Mr. <hi>Holyoke.</hi>
+               </item>
+               <item>Mr. <hi>Brown.</hi>
+               </item>
+               <item>Mr. <hi>Haſlewood.</hi>
+               </item>
+               <item>Mr. <hi>Collins Schoolmaſter.</hi>
+               </item>
+               <item>Mr. <hi>Wright</hi> Uſher.</item>
+               <item>Mr. <hi>Almond</hi> Steward.</item>
+               <item>Mr. <hi>Piggott</hi> Organiſt.</item>
+            </list>
+            <list>
+               <head>CLERKS.</head>
+               <item>Mr. <hi>Niccolls.</hi>
+               </item>
+               <item>Mr. <hi>Morgan.</hi>
+               </item>
+               <item>Mr. <hi>Smyth.</hi>
+               </item>
+               <item>Dr. <hi>Lidford.</hi>
+               </item>
+               <item>Dr. <hi>Harris.</hi>
+               </item>
+               <item>Dr. <hi>Baſſet.</hi>
+               </item>
+               <item>Dr. <hi>Ryley.</hi>
+               </item>
+               <item>
+                  <hi>Williams.</hi>
+               </item>
+            </list>
+            <list>
+               <head>SERVANTS.</head>
+               <item>
+                  <hi>Thomas Stubbs.</hi>
+               </item>
+               <item>
+                  <hi>Richar. Kilby.</hi>
+               </item>
+               <item>
+                  <hi>Daniel Yate.</hi>
+               </item>
+               <item>
+                  <hi>John Prince.</hi>
+               </item>
+               <item>
+                  <hi>Richard Painter. </hi>
+               </item>
+               <item>
+                  <hi>Robert Gardner. </hi>
+               </item>
+               <item>
+                  <hi>Thomas Dye.</hi>
+               </item>
+               <item>
+                  <hi>Edward Beaſly.</hi>
+               </item>
+            </list>
+            <list>
+               <head>CHORISTERS.</head>
+               <item>
+                  <hi>Broadhurst.</hi>
+               </item>
+               <item>
+                  <hi>Yalden.</hi>
+               </item>
+               <item>
+                  <hi>Wotton.</hi>
+               </item>
+               <item>
+                  <hi>Boſſe.</hi>
+               </item>
+               <item>
+                  <hi>Turner. </hi>
+               </item>
+               <item>
+                  <hi>Price.</hi>
+               </item>
+               <item>
+                  <hi>Bowyer.</hi>
+               </item>
+               <item>
+                  <hi>Shuttleworth.</hi>
+               </item>
+               <item>
+                  <hi>Clerk.</hi>
+               </item>
+               <item>
+                  <hi>Prince.</hi>
+               </item>
+               <item>
+                  <hi>Innes.</hi>
+               </item>
+               <item>
+                  <hi>Wardſworth.</hi>
+               </item>
+               <item>
+                  <hi>Stanton.</hi>
+               </item>
+               <item>
+                  <hi>James.</hi>
+               </item>
+               <item>
+                  <hi>Kilby.</hi>
+               </item>
+               <item>
+                  <hi>Stubbs.</hi>
+               </item>
+               <item>
+                  <hi>Wood.</hi>
+               </item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
